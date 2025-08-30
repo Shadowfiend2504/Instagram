@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="instagram_pink">#E1306C</color>
+    <color name="instagram_orange">#F56040</color>
+    <color name="instagram_purple">#833AB4</color>
+    <color name="bg_light">#FFFFFF</color>
+    <color name="panel_light">#FAFAFA</color>
+    <color name="separator_light">#EAEAEA</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="instagram">Instagram</string>
+    <string name="likes">Likes</string>
+    <string name="send">Send</string>
+    <string name="todo">TODO</string>
+    <string name="mi_historia">Mi historia</string>
+    <string name="story">story</string>
+    <string name="historia_1">Historia 1</string>
+    <string name="usuario1_esto_es_un_ejemplo_de_pie_de_foto_que_se_ve_como_instagram_ejemplo">usuario1 Esto es un ejemplo de pie de foto que se ve como Instagram. #ejemplo</string>
+</resources>
