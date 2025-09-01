@@ -104,13 +104,14 @@
                                 android:background="@drawable/story_ring_dashed" />
 
                             <ImageButton
+                                android:id="@+id/story_add_btn"
                                 android:layout_width="56dp"
                                 android:layout_height="56dp"
                                 android:layout_gravity="center"
                                 android:background="@android:color/transparent"
                                 android:contentDescription="@string/todo"
                                 android:src="@android:drawable/ic_input_add"
-                                app:tint="@color/white"
+                                app:tint="@color/black"
                                 tools:ignore="DuplicateSpeakableTextCheck" />
 
                         </FrameLayout>
@@ -134,6 +135,7 @@
                         android:gravity="center">
 
                         <ImageView
+                            android:id="@+id/story_1"
                             android:layout_width="72dp"
                             android:layout_height="72dp"
                             android:src="@drawable/avatar_circle"
@@ -160,6 +162,7 @@
                         android:gravity="center">
 
                         <ImageView
+                            android:id="@+id/story_2"
                             android:layout_width="72dp"
                             android:layout_height="72dp"
                             android:src="@drawable/avatar_circle"
@@ -188,6 +191,7 @@
                         android:gravity="center">
 
                         <ImageView
+                            android:id="@+id/story_3"
                             android:layout_width="72dp"
                             android:layout_height="72dp"
                             android:src="@drawable/avatar_circle"
@@ -430,14 +434,14 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="432 me gusta"
+                        android:text="@string/_432_me_gusta"
                         android:textStyle="bold"
                         android:layout_marginTop="6dp"/>
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="usuario2 Otra descripción de ejemplo, sin funcionalidad, sólo visual."
+                        android:text="@string/usuario2_otra_descripci_n_de_ejemplo_sin_funcionalidad_s_lo_visual"
                         android:layout_marginTop="4dp"/>
 
                 </LinearLayout>
